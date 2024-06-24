@@ -8,4 +8,3 @@ const props = defineProps(["getTasks"]);
     <p>list {{ props.getTasks }} </p>
   </header>
 </template>
-
